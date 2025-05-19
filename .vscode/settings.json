@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./Persistence",
+        "./Testing",
+        "./Business"
+    ],
+    "git.ignoreLimitWarning": true
+}
